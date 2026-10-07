@@ -7,7 +7,6 @@ Machine Learning Enthusiast
 I am a passionate Machine Learning and Artificial Intelligence enthusiast with a deep interest in leveraging cutting-edge technologies to solve complex problems. My journey in AI began with a curiosity about how machines can learn from data and has since evolved into a dedicated pursuit of excellence in the field.
 
 *   🌍  I'm based in Bangalore
-*   🖥️  See my portfolio at [My Portfolio](http://https://ankithmj07.github.io/Ankithmj.github.io/)
 *   ✉️  You can contact me at [mjankith007@gmail.com](mailto:mjankith007@gmail.com)
 *   🧠  I'm learning Natural Language Processing
 *   ⚡  Spend your last pre-AGI months wisely### Skills 
